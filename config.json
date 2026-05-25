@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authvrocess",
+        "uuid": 733040,
+        "checksum": "qqxpjd"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
